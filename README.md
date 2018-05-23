@@ -1,42 +1,53 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<p align="left">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <a href="https://gitter.im/NoviceParadigm/Lobby">
+      <img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg">
+  </a>
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
+         alt="Open Source">
+  </a>
+</p>
 
-# Make your First Contribution here!:smiley:
+# Make your First Contribution here! :tada:
 
 New to Open Source?  
 New to Github?  
 Don't know where to Start?  
-Don't know how to Start?:confused::grey_question:  
+Don't know how to Start? :confused:  
 
 **Here is the One Stop Solution for Every Newcomer!**
 
-## 1. Begin with learning about Git and Github! How it works and learn about the various Commands.
+## 1. Begin with learning about Git and Github! How it works and learn about the various Commands. :octocat:
 
 You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
 
 ### 1.1 Here are some Youtube Tutorials/Videos
-* [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets:stuck_out_tongue_winking_eye:)
+* [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :stuck_out_tongue_winking_eye:)
 * [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
 
-### 1.2 Here are some Free Courses:free:
+### 1.2 Here are some Free Courses :free:
 * [Pick any Free Udemy Course for learning Git](https://www.udemy.com/courses/search/?q=git&src=ukw&p=1&price=price-free&lang=en)
 * [Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
 
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)
 
-### 2.1 Fork this Repository:fork_and_knife:(commonly called as Repo:open_file_folder:)
+### 2.1 Fork this Repository :fork_and_knife:(commonly called as Repo)
 Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
 Don't forget to `Star`it!
 
 ### 2.2 Clone this Repo Locally
+
 * Go to your GitHub account and to this forked Repo, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.:clipboard:
 * Now open Command Line/Terminal.
 * Switch to the Directory where you want to Clone this Repo.
 * Run this Command
+
   ```
   git clone https://github.com/<your-username>/Hello-World.git
   ```
 
-### 2.3 Create a branch:trident:
+### 2.3 Create a branch :twisted_rightwards_arrows:
 Change to the Repo directory on your Computer by running
 ```
 cd Hello-World
@@ -52,7 +63,7 @@ git checkout -b shreya#11
 ```
 *NOTE: The issue number for this is [#11](https://github.com/Novice-Paradigm/Hello-World/blob/master/README.md)*
 
-### 2.4 Make necessary changes:white_check_mark:
+### 2.4 Make necessary changes :white_check_mark:
 * Go to [Contributors](https://github.com/Novice-Paradigm/Hello-World/tree/master/Contributors) directory
 * Create a file:page_facing_up:.	
 * Write about Yourself (in any Language)
@@ -61,7 +72,7 @@ git checkout -b shreya#11
   - Your github username or link to your github profile
   - Anything else you want to write  
   *Check [Sample](https://github.com/Novice-Paradigm/Hello-World/blob/master/Contributors/Sample.md)*
-* Save:floppy_disk: the File.
+* Save the File.
 
 ### 2.5 Commit the Changes
 * `git status`
@@ -76,4 +87,4 @@ git checkout -b shreya#11
 * Click `Compare & Pull Request` button.
 * Click `Create Pull Request`
 
-After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing!:smile::smile:
+After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing! :blush:
